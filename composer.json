@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "harvesthq/chosen": "^1.8"
+    },
+    "require": {
+        "twbs/bootstrap": "^5.2",
+        "thomaspark/bootswatch": "^v5.2"
+    }
+}
